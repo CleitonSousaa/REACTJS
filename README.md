@@ -1,2 +1,2 @@
-# REACT
-Projetos usando React
+# SOBRE
+- Projetos usando React
