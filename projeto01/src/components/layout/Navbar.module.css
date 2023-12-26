@@ -1,0 +1,60 @@
+.navbar{
+    width: 100%;
+    background-color: #7c7878;
+    
+}
+.navegacao{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #222;
+    height: 10vh;
+}
+
+.list{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+
+.item{
+    margin-right: 1em;
+}
+.item a{
+    color: #fff;
+    text-decoration: none;
+}
+.item a:hover{
+    color: #ffbb33;
+}
+
+
+@media (max-width: 1280px){
+
+}
+@media (max-width: 900px){
+    .logo{
+        width: 70px;
+    }
+    .item{
+        margin-right: 2em;
+    }
+}
+
+@media (max-width: 450px){
+    .logo{
+        width: 50px;
+    }
+    .item{
+        margin-right: .5em;
+    }
+}
+@media (max-width: 360px){
+    .logo{
+        width: 30px;
+    }
+    .item{
+        margin-right: .5em;
+    }
+}

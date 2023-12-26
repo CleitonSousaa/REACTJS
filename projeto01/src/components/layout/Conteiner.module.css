@@ -1,0 +1,44 @@
+.conteiner{
+    
+}
+.min-heigth{
+    
+}
+.start{
+    
+}
+.column{
+    
+    
+}
+.estart{
+    
+}
+
+
+
+
+.ConteinerProjetos{
+    padding-top: 0px;
+    gap: 50px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.Servicos{
+    
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:100px;
+}
+.Servicos h2{
+    width: 100%;
+}
+.ConteinerGeral{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 50px;
+    margin-left: 150px;
+}

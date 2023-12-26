@@ -1,0 +1,12 @@
+.conteiner{
+    width: 450px;
+    margin: 0 auto;
+    padding-top: 15vh;
+    
+}
+.conteiner h1{
+    margin-bottom: 0.5em;
+}
+.conteiner p{
+    color: #7b7b7b;
+}

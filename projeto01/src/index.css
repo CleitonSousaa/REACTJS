@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+html,body,#root{
+  background-color: #f2eeee;
+  
+  color: black;
+  overflow: hidden;
+}
+
+#root{
+  width: 100vw;
+  height: 100vh;
+  position: relative;
+}

@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "name": "casa",
+      "budget": "7500",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 2000,
+      "services": [
+        {
+          "name": "pedreiro",
+          "cost": "2000",
+          "id": "8a509dc7-7a84-4c1b-b96b-ab0fee636740"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
