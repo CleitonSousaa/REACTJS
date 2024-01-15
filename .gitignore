@@ -1,2 +1,28 @@
+# Dependency directories
 node_modules/
-package-lock.json
+
+# Environment variables
+.env
+
+# Build output
+build/
+dist/
+
+# Compiled files
+*.log
+*.bak
+*.tsbuildinfo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Jest coverage directory
+coverage/
+
+# npm debugging logs
+npm-debug.log
